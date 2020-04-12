@@ -1,0 +1,14 @@
+baseURL: https://www.vigiliantes.fr 
+languageCode: fr-fr
+title: AMAP’arcelle Solidaire
+theme: bulma-theme
+DefaultContentLanguage: fr
+metaDataFormat: "yaml"
+blackfriday:
+  smartypantsQuotesNBSP: true
+  extensions:
+  - hardLineBreak
+markup:
+  goldmark:
+    renderer:
+      unsafe: true

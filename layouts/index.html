@@ -1,0 +1,42 @@
+{{ define "main" }}
+<main aria-role="main">
+  <section class="section">
+    <div class="container">
+      <h1 class="title is-size-1 has-text-centered">Bienvenue à l'amap Amaparcelsolidaire !</h1>
+
+    </div>
+  </section>
+  <section class="section">
+    <div class="container">
+      <h2 id="historique" class="title is-size-3 has-text-centered">{{.Params.historique_title}}</h1>
+      <div class="content">
+        {{ .Params.historique_content | markdownify  }}
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container">
+      <h2 id="fonctionnement" class="title is-size-3 has-text-centered">{{.Params.fonctionnement_title}}</h1>
+      <div class="content">
+        {{ .Params.fonctionnement_content | markdownify  }}
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container">
+      <h2 id="ethique" class="title is-size-3 has-text-centered">{{.Params.ethique_title}}</h1>
+      <div class="content">
+        {{ .Params.ethique_content | markdownify  }}
+      </div>
+    </div>
+  </section>
+  <section class="section">
+    <div class="container">
+      <h2 id="contact" class="title is-size-3 has-text-centered">{{.Params.contact_title}}</h1>
+      <div class="content">
+        {{ .Params.contact_content | markdownify  }}
+      </div>
+    </div>
+  </section>
+</main>
+{{ end }}
