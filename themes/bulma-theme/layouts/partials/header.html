@@ -1,11 +1,9 @@
 <header class="header">
-  <nav class="navbar is-secondary">
+  <nav class="navbar is-white">
     <div class="container">
       <div class="navbar-brand brand-title">
-        {{ $logo := resources.Get "images/logo.svg" }}
         <a class="navbar-item" href="{{ .Site.BaseURL }}">
-          <img class="" src="{{ $logo.Permalink }}"
-            alt="logo">
+          AMAP'arcelle Solidaire
         </a>
         <div class="navbar-burger burger" data-target="navbar-menu">
           <span></span>
@@ -13,7 +11,6 @@
           <span></span>
         </div>
       </div>
-      
       <div id="navbar-menu" class="navbar-menu">
         <div class="navbar-end">
           {{ $current := . }}
@@ -23,11 +20,16 @@
             {{ $text := print .Name | safeHTML }}
             <a class="navbar-item {{ if $active }}active{{ end }}" href="{{ .URL }}">{{ $text }}</a>
           {{ end }}
-          <a class="navbar-item" href="#presentation">Présentation</a>
-          <a class="navbar-item" href="#historique">Historique</a>
-          <a class="navbar-item" href="#ethique">Ethique</a>
+          <a class="navbar-item" href="{{ .Site.BaseURL }}">Accueil</a>
+          <a class="navbar-item" href="#producteurices">Nos producteurices</a>
+          <!--
+          <a class="navbar-item" href="#comment">Comment ça marche</a>
+          <a class="navbar-item" href="#association">L'association</a>
+          -->
+          <div class="navbar-item">
+            <a class="button is-primary" href="https://contrats2.amapj.fr/p/quevert" target="_blank">Inscription</a>
+          </div>
           <a class="navbar-item" href="#contact">Contact</a>
-          <a class="navbar-item" href="#inscription">Inscription</a>
         </div>
       </div>
     </div>

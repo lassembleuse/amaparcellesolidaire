@@ -1,0 +1,72 @@
+- categorie: Légumes
+  icone: images/categories/picto-legume.png
+  producteurices:
+  - nom: Le Courtil GOULIPAOU - Nicolas et Sterenn
+    produit: légumes
+    website:
+    contrat: 
+- categorie: Fruits
+  icone: images/categories/picto-fruit.png
+  producteurices:
+  - nom: Le Verger Fleuri - Pascale et Xavier DOUSSINAULT
+    produit: pommes
+    website:
+    contrat: 
+- categorie: Produits frais
+  icone: images/categories/picto-produits-frais.png
+  producteurices:
+  - nom: Benoît GICQUEL
+    produit: oeufs et poulet
+    website:
+    contrat: 
+- categorie: Viande
+  icone: images/categories/picto-viande.png
+  producteurices:
+  - nom: Ludovic LE CAM
+    produit: viande d'agneau
+    website:
+    contrat: 
+  - nom: Benoît GICQUEL
+    produit: poulet et oeufs
+    website:
+    contrat: 
+  - nom: La ferme de la Raudais - Rémi GOUPIL
+    produit: viande bovine
+    website: https://fermedelaraudais.fr/
+    contrat: 
+- categorie: Boulangerie
+  icone: images/categories/picto-pain.png
+  producteurices:
+  - nom: Aurore LEGRAND
+    produit: pain
+    website:
+    contrat: 
+- categorie: Boissons
+  icone: images/categories/picto-boisson.png
+  producteurices:
+  - nom: La Quévertoise - Vincent BOAGLIO
+    produit: bière
+    website: http://www.la-quevertoise.com/
+    contrat: 
+  - nom: Lilia chemin des plantes - Marine BUET
+    produit: tisanes
+    website:
+    contrat: 
+- categorie: Épicerie salée
+  icone: images/categories/picto-sale.png
+  producteurices:
+  - nom: Les Différents - Francesca et Enrico FARINELLA
+    produit: pizza et épicerie fine italienne
+    website: https://lesdifferents.fr/
+    contrat: 
+- categorie: Épicerie sucrée
+  icone: images/categories/picto-sucre.png
+  producteurices:
+  - nom: Sabrina PIEDEVACHE
+    produit: confitures
+    website:
+    contrat: 
+  - nom: Alexis GUERIN
+    produit: miel
+    website:
+    contrat: 

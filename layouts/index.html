@@ -1,40 +1,107 @@
 {{ define "main" }}
 <main aria-role="main">
-  <section class="section">
-    <div class="container">
-      <h1 class="title is-size-1 has-text-centered">Bienvenue à AMAP'arcelle Solidaire !</h1>
-
-    </div>
-  </section>
-  <section class="section">
-    <div class="container">
-      <h2 id="historique" class="title is-size-3 has-text-centered">{{.Params.historique_title}}</h1>
-      <div class="content">
-        {{ .Params.historique_content | markdownify  }}
+  {{ $salad_pic := resources.Get "images/salad.png" }}
+  {{ $texture_pic := resources.Get "images/texture.png" }}
+  <section class="landing-header" >
+    <div class="landing-header_picture" style="background-image: url('{{ $salad_pic.Permalink }}')">
+      <div class="landing-header_container has-background-green" style="background-image: url('{{ $texture_pic.Permalink }}')">
+        <h1 class="title is-1 has-text-centered is-uppercase">{{.Site.Data.config.title}}</h1>
+        <p class="subtitle is-3 has-text-centered is-uppercase">{{.Site.Data.config.baseline}}</p>
       </div>
     </div>
   </section>
+
+  <section class="section producteurice-section">
+    <div class="container">
+      <h2 id="producteurices" class="title is-size-3 has-text-centered is-uppercase">{{.Params.producteurices_title}}</h2>
+      <div class="columns is-multiline">
+        {{ range $.Site.Data.producteurices }}
+          {{ $icon := resources.Get .icone }}
+          <div class="column is-3">
+            <div class="categorie-block has-text-centered">
+              <div class="categorie-image-container mb-4">
+                <img src="{{ $icon.Permalink }}" alt="icone {{ .categorie }}">
+              </div>
+              <h4 class="title is-4">{{ .categorie }}</h4>
+              <ul>
+                {{ range .producteurices }}
+                  <li class="producteurice-block">
+                    <div>
+                      <p>
+                        {{ if .website }}
+                          <a href="{{ .website }}"> {{ .nom }} </a>
+                        {{ else }}
+                          {{ .nom }}
+                        {{ end }}
+                        : {{ .produit }}
+                      </p>
+                    </div>
+                  </li>
+                {{ end }}
+              </ul>
+            </div>
+          </div>
+        {{ end }}
+      </div>
+
+    </div>
+  </section>
+
+  {{ $photo_banner := resources.Get "images/banniere-01.png" }}
+  <div class="photo-banner">
+    <img  src="{{ $photo_banner.Permalink }}" alt="photos des producteurices">
+  </div>
+<!--
   <section class="section">
     <div class="container">
-      <h2 id="fonctionnement" class="title is-size-3 has-text-centered">{{.Params.fonctionnement_title}}</h1>
+      <h2 id="comment" class="title is-size-3 has-text-centered is-uppercase">{{.Params.fonctionnement_title}}</h2>
       <div class="content">
         {{ .Params.fonctionnement_content | markdownify  }}
       </div>
     </div>
   </section>
+
+    <section class="section">
+    <div class="container">
+      <h2 id="association" class="title is-size-3 has-text-centered">{{.Params.historique_title}}</h2>
+      <div class="content">
+        {{ .Params.historique_content | markdownify  }}
+      </div>
+    </div>
+  </section>
+  
   <section class="section">
     <div class="container">
-      <h2 id="ethique" class="title is-size-3 has-text-centered">{{.Params.ethique_title}}</h1>
+      <h2 id="ethique" class="title is-size-3 has-text-centered">{{.Params.ethique_title}}</h2>
       <div class="content">
         {{ .Params.ethique_content | markdownify  }}
       </div>
     </div>
   </section>
+-->
+
   <section class="section">
     <div class="container">
-      <h2 id="contact" class="title is-size-3 has-text-centered">{{.Params.contact_title}}</h1>
+      <div class="columns">
+        <div class="column is-6 is-offset-6">
+      <h2 id="contact" class="title is-size-3 is-uppercase">{{.Params.contact_title}}</h2>
+      <div class="main-contacts mb-3 is-size-4">
+        {{ range .Params.contacts }}
+          <p>
+          {{ if eq .type "email" }}
+            <a href="mailto:{{ .contenu}}">{{ .contenu }}</a>
+          {{ else if (eq .type "telephone") }}
+            <a href="tel:{{ replaceRE "(\\s)" "" .contenu }}">{{ .contenu }}</a>
+          {{ end }}
+          {{ with .precision }} {{.}} {{ end }}
+          </p>
+        {{ end }}
+      </div>
       <div class="content">
         {{ .Params.contact_content | markdownify  }}
+      </div>
+        
+        </div>
       </div>
     </div>
   </section>
