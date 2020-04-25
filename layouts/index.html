@@ -51,16 +51,23 @@
   <div class="photo-banner">
     <img  src="{{ $photo_banner.Permalink }}" alt="photos des producteurices">
   </div>
-<!--
-  <section class="section">
+
+  <section class="section fonctionnement-section">
     <div class="container">
       <h2 id="comment" class="title is-size-3 has-text-centered is-uppercase">{{.Params.fonctionnement_title}}</h2>
-      <div class="content">
-        {{ .Params.fonctionnement_content | markdownify  }}
+      <div class="columns is-8">
+        {{ range .Params.fonctionnement_detail }}
+          <div class="column is-3 has-text-centered is-variable">
+            {{ $icon := resources.Get .icon }}
+            <img src="{{ $icon.Permalink }}" alt="icone">
+            <div class="fonctionnement-detail">{{ .content | markdownify }}</div>
+          </div>
+        {{ end }}
       </div>
     </div>
   </section>
 
+<!--
     <section class="section">
     <div class="container">
       <h2 id="association" class="title is-size-3 has-text-centered">{{.Params.historique_title}}</h2>
