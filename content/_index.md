@@ -11,7 +11,7 @@ producteurices_title: Nos producteurices
 fonctionnement_title: Comment ça marche
 fonctionnement_detail:
   - icon: images/picto-panier.png
-    content: Distribution de petits et grands paniers
+    content: Distribution de paniers et autres produits
   - icon: images/picto-temps.png
     content: |-
       Chaque mercredi 
@@ -24,40 +24,23 @@ fonctionnement_detail:
       à Quévert (22100)
   - icon: images/picto-cout.png
     content: |-
-      10€ le petit panier
-
-      20€ le grand panier
-historique_title: Historique et présentation de l'Association AMAP'arcelle Solidaire !
+      A partir de 12 € le petit panier
+historique_title: L'AMAP
 historique_content:  |-
-  Suite à une réunion de présentation sur Dinan des AMAP par Michel Chabuel (Fondateur de l’Amap de St Malo et de l’Association des AMAP d’Armorique) et la rencontre de Nicolas et Sterenn du Courtil GOULIPAOU (Plestan), maraîchers Bio, une association a vu le jour dans la région. 
- 
-  L'AMAP (AMAP’arcelle Solidaire) de Quévert a maintenant 12 ans. Avec l'aide de bénévoles et la création d’une liste d’adhérents et le soutien de la commune de QUEVERT avec la mise à disposition gratuite de la salle des Charrières chaque mercredi soir, les distributions ont pû commencer. 
-  
-  Au départ, il y avait une trentaine de paniers, puis au bout de quelques saisons, on est passé à 60 paniers. 
-  Cela se stabilise bon an, mal an, autour de la cinquantaine de familles actives.
-  
-  Plusieurs producteurs sont venus alors frapper à la porte et ont proposé leurs produits: 
-  - La boulangère Aurore LEGRAND, 
-  - Camille THEPAULT et Benjamin RAISON pour le fromage de chèvre, 
-  - Sabrina PIEDEVACHE avec ses confitures, 
-  - Vincent BOAGLIO propose de la bière, 
-  - Ludovic LE CAM de la viande d'agneau, 
-  - Francesca et Enrico FARINELLA apportent leur épicerie fine italienne et des pizzas, 
-  - Benoît GICQUEL le poulet et les oeufs et 
-  - les pommes arrivent du Verger Fleuri de chez Pascale et Xavier DOUSSINAULT. 
-  - Marine BUET nous a rejoint avec ses tisanes, 
-  - Alexis GUERIN avec son miel
-  - Rémi GOUPIL avec sa viande de bœuf. 
-  Pour la nouvelle saison, nous accueillerons des vendeuses de crêpes et des producteurs de fromage de vache.(Contrat en cours ...)
+  L'association AMAP'arcelle Solidaire est née en 2008 autour de Nicolas et Sterenn,maraîchers bio du Courtil GOULIPAOU (Plestan).
 
-ethique_title: Ethique
-ethique_content: -|
-  L'AMAP, apprécie aussi de pouvoir s'inscrire clairement dans le mouvement local en délocalisant chaque année la distribution des paniers au Cinéma Emeraude de DINAN lors de la semaine sur le cycle écologique au mois de Mars. 
-  
-  Dans la région autour de Dinan, plusieurs AMAP se créent, elles peuvent même se regrouper au sein des AMAP d’Armorique (Cesson-Sevigné). 
-  La dynamique est lancée, à nous tous de la prolonger. 
-  
-  Lieu d’échange, l’AMAP doit rester conviviale dans le respect de chacun et des engagements pris dans cette voie.
+  Depuis, plusieurs producteurs sont venus frapper à la porte et proposer leurs produits. Aujourd'hui, une cinquantaine de famille bénéficie des distributions à Quévert.
+
+  L'AMAP fonctionne grâce à la participation des adhérents aux diverses tâches, notamment assurer la distribution des paniers chaque semaine avec l'aide des maraîchers, retrouver les maraîchers sur leur lieu d’exploitation de manière très ponctuelle, organiser quelques événements pour faire vivre l'AMAP localement et s'y implanter de façon pérenne.
+
+  Les adhérents s'engagent pour 6 mois, avec les producteurs qu'ils souhaitent. La distribution des légumes et du pain se fait toutes les semaines, les autres produits à un rythme variable.
+
+  **N'hésitez pas à prendre contact avec nous pour en savoir plus et nous rejoindre !**
+inscription_title: Adhérer
+inscription_content:  |-
+  Pour adhérer et commander vos paniers, rien de plus simple ! 
+
+  Prenez contact avec nous !
 contact_title: Pour nous contacter
 contacts:
   - contenu: contact@amaparcellesolidaire.fr

@@ -13,8 +13,26 @@
     font-size: 1.4rem
     line-height: 1.2
     color: $amap-brown
-
 +desktop
   .fonctionnement-section
     img
       max-width: 50%
+
+.description-section
+  .description-text-column
+    display: flex
+    align-items: center
+    justify-content: right
+  .description-text
+    padding: 2rem
+    text-align: right
+    font-size: 1.2rem
+    +desktop
+      max-width: ($desktop - $container-offset)/2
+  .description-image-column
+    line-height: 0
+
+.interligne-section
+  .content p:not(:last-child)
+    margin-bottom: 0
+    

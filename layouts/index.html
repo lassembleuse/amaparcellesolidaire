@@ -4,7 +4,7 @@
   {{ $texture_pic := resources.Get "images/texture.png" }}
   <section class="landing-header" >
     <div class="landing-header_picture" style="background-image: url('{{ $salad_pic.Permalink }}')">
-      <div class="landing-header_container has-background-green" style="background-image: url('{{ $texture_pic.Permalink }}')">
+      <div class="landing-header_container" style="background-image: url('{{ $texture_pic.Permalink }}')">
         <h1 class="title is-1 has-text-centered is-uppercase">{{.Site.Data.config.title}}</h1>
         <p class="subtitle is-3 has-text-centered is-uppercase">{{.Site.Data.config.baseline}}</p>
       </div>
@@ -55,9 +55,9 @@
   <section class="section fonctionnement-section">
     <div class="container">
       <h2 id="comment" class="title is-size-3 has-text-centered is-uppercase">{{.Params.fonctionnement_title}}</h2>
-      <div class="columns is-8">
+      <div class="columns">
         {{ range .Params.fonctionnement_detail }}
-          <div class="column is-3 has-text-centered is-variable">
+          <div class="column is-3 has-text-centered">
             {{ $icon := resources.Get .icon }}
             <img src="{{ $icon.Permalink }}" alt="icone">
             <div class="fonctionnement-detail">{{ .content | markdownify }}</div>
@@ -67,25 +67,36 @@
     </div>
   </section>
 
-<!--
-    <section class="section">
-    <div class="container">
-      <h2 id="association" class="title is-size-3 has-text-centered">{{.Params.historique_title}}</h2>
-      <div class="content">
-        {{ .Params.historique_content | markdownify  }}
+  <section class="section interligne-section has-text-centered has-background-danger">
+    <p class="title is-4 has-text-white">De la ferme à chez vous !</p>
+  </section>
+
+  <section class="description-section">
+    <div class="columns">
+      <div class="column is-half description-text-column">
+        <div class="description-text">
+          <div class="container">
+            <h2 id="association" class="title is-size-3">{{.Params.historique_title}}</h2>
+            <div class="content">
+              {{ .Params.historique_content | markdownify  }}
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="column is-half description-image-column">
+        <div class="">
+          {{ $photo_historique := resources.Get "images/image-02.png" }}
+          <img  src="{{ $photo_historique.Permalink }}" alt="photos de vie de l'AMAP">
+        </div>
       </div>
     </div>
   </section>
   
-  <section class="section">
-    <div class="container">
-      <h2 id="ethique" class="title is-size-3 has-text-centered">{{.Params.ethique_title}}</h2>
-      <div class="content">
-        {{ .Params.ethique_content | markdownify  }}
-      </div>
-    </div>
+  <section class="section interligne-section has-text-centered has-background-secondary" style="background-image: url('{{ $texture_pic.Permalink }}')">
+    <p class="title is-3">{{ .Params.inscription_title }}</p>
+    <div class="content is-size-4">{{ .Params.inscription_content |  markdownify }}</div >
   </section>
--->
+
 
   <section class="section">
     <div class="container">
