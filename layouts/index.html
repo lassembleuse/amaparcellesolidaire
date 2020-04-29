@@ -35,6 +35,10 @@
                         {{ end }}
                         : {{ .produit }}
                       </p>
+                      {{ with .contrat }}
+                        
+                        <p><a href="{{ . }}"> Voir le contrat </a></p>
+                      {{ end }}
                     </div>
                   </li>
                 {{ end }}
