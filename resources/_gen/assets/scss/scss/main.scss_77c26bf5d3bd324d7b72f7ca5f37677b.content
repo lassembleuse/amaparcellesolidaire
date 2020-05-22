@@ -12041,11 +12041,17 @@ label.panel-block {
 
 .categorie-block {
   margin-bottom: 3rem; }
+  .categorie-block a {
+    text-decoration: underline; }
   .categorie-block ul {
     list-style: none;
     margin-left: 0; }
   .categorie-block .categorie-image-container {
     height: 130px; }
+  .categorie-block .contrat-link {
+    color: #dc4629; }
+    .categorie-block .contrat-link:hover {
+      color: #ca3d21; }
 
 .producteurice-section h2 {
   margin-bottom: 5rem !important; }

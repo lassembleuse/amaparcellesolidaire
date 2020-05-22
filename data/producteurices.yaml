@@ -23,6 +23,10 @@
     produit: fromage de chèvre
     website: http://www.pampillesetcabrioles.fr/
     contrat: "/contrats/CONTRAT AMAP Fromage de chèvre Printemps-Eté 2020.pdf"
+  - nom: Billigs et Compagnie - Morgane MAMBRÉ
+    produit: galettes et pancakes
+    website:
+    contrat: "/contrats/CONTRAT AMAP Galettes Printemps Eté 2020.pdf"
 - categorie: Viande
   icone: images/categories/picto-viande.png
   producteurices:
