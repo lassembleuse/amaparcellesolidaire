@@ -33,7 +33,7 @@
                         {{ else }}
                           {{ .nom }}
                         {{ end }}
-                        : {{ .produit }}
+                        : <span class="has-text-weight-bold">{{ .produit }}</span>
                       </p>
                       {{ with .contrat }}
                         <p><a class="contrat-link" href="{{ . }}"> Voir le contrat </a></p>

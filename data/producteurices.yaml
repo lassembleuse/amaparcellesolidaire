@@ -27,6 +27,10 @@
     produit: galettes et pancakes
     website:
     contrat: "/contrats/CONTRAT AMAP Galettes Printemps Eté 2020.pdf"
+  - nom: Ferme de la Chesnaye - Maëlle COQUIO
+    produit: fromages de vache
+    website: https://www.facebook.com/fermedelachesnaye/
+    contrat: "/contrats/CONTRAT AMAP Fromage de vache Printemps-Eté 2020.pdf"
 - categorie: Viande
   icone: images/categories/picto-viande.png
   producteurices:
