@@ -24,12 +24,20 @@ fields:
 - type: textarea
   name: historique_content
   label: Partie historique - contenu
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: text
   name: inscription_title
   label: Partie inscription - titre
 - type: text
   name: inscription_content
   label: Partie inscription - contenu
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
 - type: text
   name: contact_title
   label: Partie contact - titre
@@ -46,6 +54,10 @@ fields:
   - type: text
     name: precision
     label: precision
-- type: text
+- type: textarea
   name: contact_content
   label: Partie contact - contenu
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
