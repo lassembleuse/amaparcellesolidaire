@@ -1,0 +1,30 @@
+---
+label: producteurices
+hide_body: true
+fields:
+- type: field_group_list
+  name: Producteurices
+  label: Producteurices
+  fields:
+  - type: text
+    name: categorie
+    label: categorie
+  - type: file
+    name: icone
+    label: icone
+  - type: field_group_list
+    name: producteurices
+    label: producteurices
+    fields:
+    - type: text
+      name: nom
+      label: nom
+    - type: text
+      name: produit
+      label: produit
+    - type: text
+      name: website
+      label: website
+    - type: file
+      name: contrat
+      label: contrat
