@@ -3,49 +3,36 @@ label: Accueil
 hide_body: true
 fields:
 - type: text
-  name: title
-  label: title
-- type: datetime
-  name: date
-  label: date
-- type: field_group
-  name: sitemap
-  label: sitemap
-  fields:
-  - type: number
-    name: priority
-    label: priority
-- type: text
   name: producteurices_title
-  label: producteurices_title
+  label: Partie producteurices - titre
 - type: text
   name: fonctionnement_title
-  label: fonctionnement_title
+  label: Partie fonctionnement - titre
 - type: field_group_list
   name: fonctionnement_detail
-  label: fonctionnement_detail
+  label: Partie fonctionnement - détail
   fields:
   - type: file
     name: icon
-    label: icon
+    label: icone
   - type: text
     name: content
-    label: content
+    label: légende
 - type: text
   name: historique_title
-  label: historique_title
+  label: Partie historique - titre
 - type: textarea
   name: historique_content
-  label: historique_content
+  label: Partie historique - contenu
 - type: text
   name: inscription_title
-  label: inscription_title
+  label: Partie inscription - titre
 - type: text
   name: inscription_content
-  label: inscription_content
+  label: Partie inscription - contenu
 - type: text
   name: contact_title
-  label: contact_title
+  label: Partie contact - titre
 - type: field_group_list
   name: contacts
   label: contacts
@@ -61,4 +48,4 @@ fields:
     label: precision
 - type: text
   name: contact_content
-  label: contact_content
+  label: Partie contact - contenu
