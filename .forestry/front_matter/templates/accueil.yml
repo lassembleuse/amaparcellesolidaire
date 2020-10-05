@@ -1,0 +1,64 @@
+---
+label: Accueil
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: datetime
+  name: date
+  label: date
+- type: field_group
+  name: sitemap
+  label: sitemap
+  fields:
+  - type: number
+    name: priority
+    label: priority
+- type: text
+  name: producteurices_title
+  label: producteurices_title
+- type: text
+  name: fonctionnement_title
+  label: fonctionnement_title
+- type: field_group_list
+  name: fonctionnement_detail
+  label: fonctionnement_detail
+  fields:
+  - type: file
+    name: icon
+    label: icon
+  - type: text
+    name: content
+    label: content
+- type: text
+  name: historique_title
+  label: historique_title
+- type: textarea
+  name: historique_content
+  label: historique_content
+- type: text
+  name: inscription_title
+  label: inscription_title
+- type: text
+  name: inscription_content
+  label: inscription_content
+- type: text
+  name: contact_title
+  label: contact_title
+- type: field_group_list
+  name: contacts
+  label: contacts
+  fields:
+  - type: text
+    name: contenu
+    label: contenu
+  - type: text
+    name: type
+    label: type
+  - type: text
+    name: precision
+    label: precision
+- type: text
+  name: contact_content
+  label: contact_content
