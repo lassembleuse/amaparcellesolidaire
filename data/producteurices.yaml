@@ -4,85 +4,85 @@
   - nom: Le Courtil GOULIPAOU - Nicolas et Sterenn
     produit: légumes
     website:
-    contrat: "/contrats/CONTRAT AMAP Légumes Printemps-Eté 2020.pdf"
+    contrat: "/contrats/CONTRAT AMAP Légumes Automne-Hiver 2020_2021.pdf"
 - categorie: Fruits
   icone: images/categories/picto-fruit.png
-  producteurices:
-  - nom: Le Verger Fleuri - Pascale et Xavier DOUSSINAULT
-    produit: pommes
-    website:
-    contrat: 
+  # producteurices:
+  # - nom: Le Verger Fleuri - Pascale et Xavier DOUSSINAULT
+  #   produit: pommes
+  #   website:
+  #   contrat: 
 - categorie: Produits frais
   icone: images/categories/picto-produits-frais.png
   producteurices:
   - nom: Benoît GICQUEL
     produit: oeufs et poulet
     website:
-    contrat: "/contrats/CONTRAT AMAP Volaille et oeuf Printemps Eté 2020.pdf"
+    contrat: "/contrats/CONTRAT AMAP Volaille et oeuf Automne-Hiver 2020_2021.pdf"
   - nom: GAEC Pampilles et Cabrioles - Camille THEPAULT et Benjamin RAISON
     produit: fromage de chèvre
     website: http://www.pampillesetcabrioles.fr/
-    contrat: "/contrats/CONTRAT AMAP Fromage de chèvre Printemps-Eté 2020.pdf"
+    contrat: "/contrats/CONTRAT AMAP Fromage de chèvre Automne-Hiver 2020_2021.pdf"
   - nom: Billigs et Compagnie - Morgane MAMBRÉ
     produit: galettes et pancakes
     website:
-    contrat: "/contrats/CONTRAT AMAP Galettes Printemps Eté 2020.pdf"
+    contrat: "/contrats/CONTRAT AMAP Galettes Automne-Hiver 2020_2021.pdf"
   - nom: Ferme de la Chesnaye - Maëlle COQUIO
     produit: fromages de vache
     website: https://www.facebook.com/fermedelachesnaye/
-    contrat: "/contrats/CONTRAT AMAP Fromage de vache Printemps-Eté 2020.pdf"
+    contrat: "/contrats/CONTRAT AMAP Fromage de vache  Automne-Hiver 2020_2021.pdf"
 - categorie: Viande
   icone: images/categories/picto-viande.png
   producteurices:
   - nom: Ludovic LE CAM
     produit: viande d'agneau
     website:
-    contrat: 
+    contrat: "/contrats/CONTRAT AMAP Agneau 2021.pdf"
   - nom: Le Bois Gicquel - Benoît GICQUEL
     produit: poulet et oeufs
     website:
-    contrat: "/contrats/CONTRAT AMAP Volaille et oeuf Printemps Eté 2020.pdf"
+    contrat: "/contrats/CONTRAT AMAP Volaille et oeuf Automne-Hiver 2020_2021.pdf"
   - nom: La ferme de la Raudais - Rémi GOUPIL
     produit: viande bovine
     website: https://fermedelaraudais.fr/
-    contrat: "/contrats/CONTRAT AMAP Viande bovine Printemps Eté 2020.pdf"
+    contrat: "/contrats/CONTRAT AMAP Viande bovine Automne-Hiver 2020_2021.pdf"
 - categorie: Boulangerie
   icone: images/categories/picto-pain.png
   producteurices:
   - nom: Fournil de la Riante - Aurore LEGRAND
     produit: pain
     website:
-    contrat: "/contrats/CONTACT AMAP Pain Printemps Eté 2020.pdf"
+    contrat: "/contrats/CONTACT AMAP Pain Automne-Hiver 2020_2021.pdf"
 - categorie: Boissons
   icone: images/categories/picto-boisson.png
   producteurices:
   - nom: La Quévertoise - Vincent BOAGLIO
     produit: bière
     website: http://www.la-quevertoise.com/
-    contrat: "/contrats/CONTRAT AMAP  Bières Printemps-Eté 2020.pdf"
+    contrat: "/contrats/CONTRAT AMAP  Bières Automne-Hiver 2020_2021.pdf"
   - nom: Le Courtil GOULIPAOU - Nicolas et Sterenn
     produit: cidre
     website:
-    contrat: "/contrats/CONTRAT AMAP Cidre Printemps Eté  2020.pdf"
+    contrat: "/contrats/CONTRAT AMAP Cidre Automne-Hiver  2020_2021.pdf"
   - nom: Lilia chemin des plantes - Marine BUET
     produit: tisanes
     website:
-    contrat: "/contrats/CONTRAT AMAP Tisane Printemps Eté 2020.docx.pdf"
+    contrat: "/contrats/CONTRAT AMAP Tisane Automne-Hiver 2020_2021.pdf"
 - categorie: Épicerie salée
   icone: images/categories/picto-sale.png
   producteurices:
   - nom: Les Différents - Francesca et Enrico FARINELLA
     produit: pizza et épicerie fine italienne
     website: https://lesdifferents.fr/CONTRAT AMAP Les Différents Printemps Eté 2020.pdf
-    contrat: "/contrats/CONTRAT AMAP Les Différents Printemps Eté 2020.pdf"
+    contrat: "/contrats/CONTRAT AMAP Les Différents Automne- hiver 2020_2021.pdf"
 - categorie: Épicerie sucrée
   icone: images/categories/picto-sucre.png
   producteurices:
   - nom: Sabrina PIEDEVACHE
     produit: confitures
     website:
-    contrat: "/contrats/CONTRAT AMAP Confitures Printemps-Eté 2020.pdf"
+    contrat: "/contrats/CONTRAT AMAP Confitures Automne-Hiver 2020_2021.pdf"
   - nom: Alexis GUERIN
     produit: miel
     website:
-    contrat: "/contrats/CONTRAT AMAP Miel Printemps Eté 2020.pdf"
+    contrat: "/contrats/CONTRAT AMAP Miel Automne-Hiver 2020_2021.pdf"
