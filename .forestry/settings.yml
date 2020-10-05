@@ -9,7 +9,13 @@ sections:
   label: Pages
   create: all
   match: "*"
-upload_dir: static/uploads
+- type: document
+  path: data/producteurices.yaml
+  label: Producteurices
+- type: document
+  path: data/config.yaml
+  label: Configuration
+upload_dir: static/contrats
 public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
