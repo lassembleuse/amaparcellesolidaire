@@ -12,6 +12,7 @@ fields:
   - type: file
     name: icone
     label: icone
+    hidden: true
   - type: field_group_list
     name: producteurices
     label: producteurices
@@ -24,7 +25,7 @@ fields:
       label: produit
     - type: text
       name: website
-      label: website
+      label: site internet
     - type: file
       name: contrat
       label: contrat
