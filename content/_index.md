@@ -3,7 +3,7 @@ title: Accueil
 date: '2020-04-11T11:09:39.000+02:00'
 sitemap:
   priority: 0.9
-producteurices_title: Nos producteurices
+producteurices_title: Nos producteurs et productrices
 fonctionnement_title: Comment ça marche
 fonctionnement_detail:
 - icon: images/picto-panier.png
