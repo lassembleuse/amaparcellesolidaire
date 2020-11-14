@@ -8,3 +8,5 @@ fields:
 - type: text
   name: baseline
   label: Slogan
+pages:
+- data/config.yaml
