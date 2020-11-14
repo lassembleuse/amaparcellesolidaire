@@ -11,7 +11,7 @@ sections:
   match: "*"
 - type: document
   path: data/producteurices.yaml
-  label: Producteurices
+  label: Producteur·rices
 - type: document
   path: data/config.yaml
   label: Configuration

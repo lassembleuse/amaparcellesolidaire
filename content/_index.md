@@ -1,32 +1,24 @@
 ---
-title: "Accueil"
-date: 2020-04-11T11:09:39+02:00
+title: Accueil
+date: '2020-04-11T11:09:39.000+02:00'
 sitemap:
   priority: 0.9
-menu:
-  footer:
-    name: Accueil
-    weight: 1
-producteurices_title: Nos producteurices
+producteurices_title: Nos producteurs et productrices
 fonctionnement_title: Comment ça marche
 fonctionnement_detail:
-  - icon: images/picto-panier.png
-    content: Distribution de paniers et autres produits
-  - icon: images/picto-temps.png
-    content: |-
-      Chaque mercredi 
-      
-      de 18h à 19h30
-  - icon: images/picto-lieu.png
-    content: |-
-      Salle des Charrières
+- icon: images/picto-panier.png
+  content: Distribution de paniers et autres produits
+- icon: images/picto-temps.png
+  content: "Chaque mercredi \n\nde 18h à 19h30"
+- icon: images/picto-lieu.png
+  content: |-
+    Salle des Charrières
 
-      à Quévert (22100)
-  - icon: images/picto-cout.png
-    content: |-
-      A partir de 12 € le petit panier
+    à Quévert (22100)
+- icon: images/picto-cout.png
+  content: A partir de 12 € le petit panier
 historique_title: L'AMAP
-historique_content:  |-
+historique_content: |-
   L'association AMAP'arcelle Solidaire est née en 2008 autour de Nicolas et Sterenn,maraîchers bio du Courtil GOULIPAOU (Plestan).
 
   Depuis, plusieurs producteurs sont venus frapper à la porte et proposer leurs produits. Aujourd'hui, une cinquantaine de famille bénéficie des distributions à Quévert.
@@ -37,26 +29,26 @@ historique_content:  |-
 
   **N'hésitez pas à prendre contact avec nous pour en savoir plus et nous rejoindre !**
 inscription_title: Adhérer
-inscription_content:  |-
-  Pour adhérer et commander vos paniers, rien de plus simple ! 
-
-  Prenez contact avec nous !
+inscription_content: "Pour adhérer et commander vos paniers, rien de plus simple !
+  \n\nPrenez contact avec nous !"
 contact_title: Pour nous contacter
 contacts:
-  - contenu: contact@amaparcellesolidaire.fr
-    type: email
-    precision: 
-  - contenu: 06 79 25 58 81
-    type: telephone
-    precision: (Julie)
-  - contenu: 06 23 74 86 27
-    type: telephone
-    precision: (Laura)
-
+- contenu: contact@amaparcellesolidaire.fr
+  type: email
+  precision: ''
+- contenu: 06 79 25 58 81
+  type: telephone
+  precision: "(Julie)"
+- contenu: 06 23 74 86 27
+  type: telephone
+  precision: "(Laura)"
 contact_content: |-
   Pour contacter le réseau :
-  - http://www.reseau-amap.org
-  - https://www.amap-armorique.org
 
+  * [http://www.reseau-amap.org](http://www.reseau-amap.org "http://www.reseau-amap.org")
+  * [https://www.amap-armorique.org](https://www.amap-armorique.org "https://www.amap-armorique.org")
+menu:
+  footer:
+    weight: 1
 
 ---
