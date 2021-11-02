@@ -9,7 +9,7 @@ fonctionnement_detail:
 - icon: images/picto-panier.png
   content: Distribution de paniers et autres produits
 - icon: images/picto-temps.png
-  content: "Chaque mercredi \n\nde 18h à 19h30"
+  content: Chaque mercredi de 17h30 à 19h00
 - icon: images/picto-lieu.png
   content: |-
     Salle des Charrières
