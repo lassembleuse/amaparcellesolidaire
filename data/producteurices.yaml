@@ -4,80 +4,84 @@
   producteurices:
   - nom: Le Courtil GOULIPAOU - Nicolas et Sterenn
     produit: légumes
-    website: 
-    contrat: "/contrats/legumes-Automne-Hiver-2021-2022.pdf"
+    website:
+    contrat: "/contrats/legumes-automne-hiver-2021-2022.pdf"
 - categorie: Fruits
   icone: images/categories/picto-fruit.png
   producteurices:
   - nom: La Ferme du Lacaÿ
     produit: Pruneaux
-    website: 
-    contrat: "/contrats/pruneaux-Automne-Hiver-2021-2022.pdf"
+    website:
+    contrat: "/contrats/pruneaux-automne-hiver-2021-2022.pdf"
+  - nom: Cécile TREMORIN
+    produit: Pommes
+    website:
+    contrat: "/contrats/pommes-automne-hiver-2021-2022.pdf"
 - categorie: Produits frais
   icone: images/categories/picto-produits-frais.png
   producteurices:
   - nom: Benoît GICQUEL
     produit: oeufs et poulet
-    website: 
-    contrat: "/contrats/volailles-2021-ete.pdf"
+    website:
+    contrat: "/contrats/volaille-oeuf-automne-hiver-2021-2022.pdf"
   - nom: GAEC Pampilles et Cabrioles - Camille THEPAULT et Benjamin RAISON
     produit: fromage de chèvre
     website: http://www.pampillesetcabrioles.fr/
-    contrat: "/contrats/chevre-2021-ete.pdf"
+    contrat: "/contrats/fromage-chevre-automne-hiver-2021-2022.pdf"
   - nom: Billigs et Compagnie - Morgane MAMBRÉ
     produit: galettes et pancakes
-    website: 
-    contrat: "/contrats/galettes-2021-ete.pdf"
+    website:
+    contrat: "/contrats/galettes-automne-hiver-2021-2022.pdf"
   - nom: Ferme de la Chesnaye - Maëlle COQUIO
     produit: fromages de vache
     website: https://www.facebook.com/fermedelachesnaye/
-    contrat: "/contrats/fromage_vaches-2021-ete.pdf"
+    contrat: "/contrats/fromage-vache-automne-hiver-2021-2022.pdf"
 - categorie: Viande
   icone: images/categories/picto-viande.png
   producteurices:
   - nom: Ludovic LE CAM
     produit: viande d'agneau
-    website: 
+    website:
     contrat: "/contrats/CONTRAT AMAP Agneau 2021.pdf"
   - nom: Le Bois Gicquel - Benoît GICQUEL
     produit: poulet et oeufs
-    website: 
-    contrat: "/contrats/volailles-2021-ete.pdf"
+    website:
+    contrat: "/contrats/volaille-oeuf-automne-hiver-2021-2022.pdf"
   - nom: La ferme de la Raudais - Rémi GOUPIL
     produit: viande bovine
     website: https://fermedelaraudais.fr/
-    contrat: "/contrats/boeuf-2021-ete.pdf"
+    contrat: "/contrats/viande-bovine-automne-hiver-2021-2022.pdf"
   - nom: Ferme de la Chesnaye - Maëlle COQUIO
     produit: viande de porc
     website: https://www.facebook.com/fermedelachesnaye/
-    contrat: "/contrats/porc-2021-ete.pdf"
+    contrat: "/contrats/porc-automne-hiver-2021-2022.pdf"
 - categorie: Boulangerie
   icone: images/categories/picto-pain.png
   producteurices:
   - nom: Fournil de la Riante - Aurore LEGRAND
     produit: pain
-    website: 
-    contrat: "/contrats/pain-2021-ete.pdf"
+    website:
+    contrat: "/contrats/pain-automne-hiver-2021-2022.pdf"
 - categorie: Boissons
   icone: images/categories/picto-boisson.png
   producteurices:
   - nom: La Quévertoise - Vincent BOAGLIO
     produit: bière
     website: http://www.la-quevertoise.com/
-    contrat: "/contrats/bieres.pdf"
+    contrat: "/contrats/bieres-automne-hiver-2021-2022.pdf"
   - nom: Le Courtil GOULIPAOU - Nicolas et Sterenn
     produit: cidre
-    website: 
-    contrat: "/contrats/cidre-2021-ete.pdf"
+    website:
+    contrat: "/contrats/cidre-automne-hiver-2021-2022.pdf"
   - nom: Lilia chemin des plantes - Marine BUET
     produit: tisanes
-    website: 
-    contrat: "/contrats/tisanes-2021-ete.pdf"
+    website:
+    contrat: "/contrats/tisane-automne-hiver-2021-2022.pdf"
 - categorie: Épicerie salée
   icone: images/categories/picto-sale.png
   producteurices:
   - nom: Les Différents - Francesca et Enrico FARINELLA
-    produit: pizza et épicerie fine italienne
+    produit: épicerie fine italienne
     website: https://lesdifferents.fr/CONTRAT AMAP Les Différents Printemps Eté 2020.pdf
     contrat: "/contrats/les_differents-2021-ete.pdf"
 - categorie: Épicerie sucrée
@@ -85,9 +89,9 @@
   producteurices:
   - nom: Sabrina PIEDEVACHE
     produit: confitures
-    website: 
-    contrat: "/contrats/confitures-2021-ete.pdf"
+    website:
+    contrat: "/contrats/confitures-automne-hiver-2021-2022.pdf"
   - nom: Alexis GUERIN
     produit: miel
-    website: 
-    contrat: "/contrats/miel-2021-ete.pdf"
+    website:
+    contrat: "/contrats/miel-automne-hiver-2021-2022.pdf"
