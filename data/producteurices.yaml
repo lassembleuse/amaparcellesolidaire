@@ -11,7 +11,7 @@
   producteurices:
   - nom: La Ferme du Lacaÿ
     produit: Pruneaux
-    website: 
+    website: https://www.fermedulacay.com/
     contrat: "/contrats/pruneaux-automne-hiver-2021-2022.pdf"
   - nom: Cécile TREMORIN
     produit: Pommes
