@@ -4,29 +4,29 @@
   producteurices:
   - nom: Le Courtil GOULIPAOU - Nicolas et Sterenn
     produit: légumes
-    website:
+    website: http://www.fermepedagogiqueducourtil.com/
     contrat: "/contrats/legumes-automne-hiver-2021-2022.pdf"
 - categorie: Fruits
   icone: images/categories/picto-fruit.png
   producteurices:
   - nom: La Ferme du Lacaÿ
     produit: Pruneaux
-    website:
+    website: 
     contrat: "/contrats/pruneaux-automne-hiver-2021-2022.pdf"
   - nom: Cécile TREMORIN
     produit: Pommes
-    website:
+    website: 
     contrat: "/contrats/pommes-automne-hiver-2021-2022.pdf"
 - categorie: Produits frais
   icone: images/categories/picto-produits-frais.png
   producteurices:
   - nom: Benoît GICQUEL
     produit: oeufs et poulet
-    website:
+    website: 
     contrat: "/contrats/volaille-oeuf-automne-hiver-2021-2022.pdf"
   - nom: Billigs et Compagnie - Morgane MAMBRÉ
     produit: galettes et pancakes
-    website:
+    website: 
     contrat: "/contrats/galettes-automne-hiver-2021-2022.pdf"
   - nom: GAEC Pampilles et Cabrioles - Camille THEPAULT et Benjamin RAISON
     produit: fromage de chèvre
@@ -41,7 +41,7 @@
   producteurices:
   - nom: Le Bois Gicquel - Benoît GICQUEL
     produit: poulet et oeufs
-    website:
+    website: 
     contrat: "/contrats/volaille-oeuf-automne-hiver-2021-2022.pdf"
   - nom: La ferme de la Raudais - Rémi GOUPIL
     produit: viande bovine
@@ -56,7 +56,7 @@
   producteurices:
   - nom: Fournil de la Riante - Aurore LEGRAND
     produit: pain
-    website:
+    website: 
     contrat: "/contrats/pain-automne-hiver-2021-2022.pdf"
 - categorie: Boissons
   icone: images/categories/picto-boisson.png
@@ -67,23 +67,23 @@
     contrat: "/contrats/bieres-automne-hiver-2021-2022.pdf"
   - nom: Le Courtil GOULIPAOU - Nicolas et Sterenn
     produit: cidre
-    website:
+    website: 
     contrat: "/contrats/cidre-automne-hiver-2021-2022.pdf"
   - nom: Lilia chemin des plantes - Marine BUET
     produit: tisanes
-    website:
+    website: 
     contrat: "/contrats/tisane-automne-hiver-2021-2022.pdf"
   - nom: Cécile TREMORIN
     produit: Jus de pommes
-    website:
+    website: 
     contrat: "/contrats/pommes-automne-hiver-2021-2022.pdf"
 - categorie: Épicerie salée
   icone: images/categories/picto-sale.png
-  producteurices:
+  producteurices: 
 - categorie: Épicerie sucrée
   icone: images/categories/picto-sucre.png
   producteurices:
   - nom: Sabrina PIEDEVACHE
     produit: confitures
-    website:
+    website: 
     contrat: "/contrats/confitures-automne-hiver-2021-2022.pdf"
