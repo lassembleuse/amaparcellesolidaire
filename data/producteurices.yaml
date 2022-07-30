@@ -58,9 +58,9 @@
 - categorie: Boulangerie
   icone: images/categories/picto-pain.png
   producteurices:
-  - nom: Fournil de la Riante - Aurore LEGRAND
+  - nom: Laorans Boulangerie - Laurent BAUDET
     produit: pain
-    website: 
+    website: https://www.facebook.com/profile.php?id=100057525006414
     contrat: "/contrats/pain-automne-hiver-2021-2022.pdf"
 - categorie: Boissons
   icone: images/categories/picto-boisson.png
