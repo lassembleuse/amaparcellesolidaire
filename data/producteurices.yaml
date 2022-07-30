@@ -43,10 +43,10 @@
     produit: Volaille
     website: ''
     contrat: ''
-  - nom: Le Bois Gicquel - Benoît GICQUEL
-    produit: poulet et oeufs
+  - nom: ''
+    produit: ''
     website: 
-    contrat: "/contrats/volaille-oeuf-automne-hiver-2021-2022.pdf"
+    contrat: ''
   - nom: La ferme de la Chesnaye - Maëlle COQUIO
     produit: viande bovine
     website: https://www.fermedelachesnaye.fr/
