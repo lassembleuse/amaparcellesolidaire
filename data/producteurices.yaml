@@ -47,10 +47,10 @@
     produit: poulet et oeufs
     website: 
     contrat: "/contrats/volaille-oeuf-automne-hiver-2021-2022.pdf"
-  - nom: La ferme de la Raudais - Rémi GOUPIL
+  - nom: La ferme de la Chesnaye - Maëlle COQUIO
     produit: viande bovine
-    website: https://fermedelaraudais.fr/
-    contrat: "/contrats/viande-bovine-automne-hiver-2021-2022.pdf"
+    website: https://www.fermedelachesnaye.fr/
+    contrat: ''
   - nom: Ferme de la Chesnaye - Maëlle COQUIO
     produit: viande de boeuf
     website: https://www.facebook.com/fermedelachesnaye/
