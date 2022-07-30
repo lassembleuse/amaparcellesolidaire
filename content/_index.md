@@ -39,9 +39,6 @@ contacts:
 - contenu: 06 79 25 58 81
   type: telephone
   precision: "(Julie)"
-- contenu: 06 23 74 86 27
-  type: telephone
-  precision: "(Laura)"
 contact_content: |-
   Pour contacter le réseau :
 
