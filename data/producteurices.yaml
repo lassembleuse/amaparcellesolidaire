@@ -20,6 +20,10 @@
 - categorie: Produits frais
   icone: images/categories/picto-produits-frais.png
   producteurices:
+  - nom: Fertile Fungi - Morgane VARNIER
+    produit: Champignons
+    website: https://www.fermedulacay.com/
+    contrat: ''
   - nom: Benoît GICQUEL
     produit: Oeufs et poulet
     website: 
