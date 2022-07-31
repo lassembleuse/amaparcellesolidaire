@@ -40,7 +40,7 @@
   icone: images/categories/picto-viande.png
   producteurices:
   - nom: Le Bois Gicquel - Benoît GICQUEL
-    produit: Volaille (poulet et oeufs)
+    produit: 'Volaille '
     website: ''
     contrat: ''
   - nom: Ferme de la Chesnaye - Maëlle COQUIO
