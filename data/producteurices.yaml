@@ -1,4 +1,12 @@
 ---
+- categorie: Produits d'hygiène
+  icone: Image par <a href="https://pixabay.com/fr/users/diosk2k-9406755/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6224628">Kevin
+    Roeß</a> de <a href="https://pixabay.com/fr//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6224628">Pixabay</a>
+  producteurices:
+  - nom: Pampilles et Cabrioles - Camille THEPAULT et Benjamin RAISON
+    produit: Savon
+    website: https://www.pampillesetcabrioles.fr/
+    contrat: ''
 - categorie: Légumes
   icone: images/categories/picto-legume.png
   producteurices:
