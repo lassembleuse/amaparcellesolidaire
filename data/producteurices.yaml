@@ -90,7 +90,11 @@
     website: http://www.fermepedagogiqueducourtil.com/
 - categorie: Épicerie salée
   icone: images/categories/picto-sale.png
-  producteurices: 
+  producteurices:
+  - nom: Fertile Fungi - Morgane VARNIER
+    produit: Champignons séchés et tartinable
+    website: https://www.fermedulacay.com/
+    contrat: ''
 - categorie: Épicerie sucrée
   icone: images/categories/picto-sucre.png
   producteurices:
