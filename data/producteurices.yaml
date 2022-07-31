@@ -86,6 +86,10 @@
 - categorie: Épicerie sucrée
   icone: images/categories/picto-sucre.png
   producteurices:
+  - nom: Le Rucher du Champ d'en face - Gilles LEBASTARD
+    produit: miel
+    website: ''
+    contrat: ''
   - nom: Sabrina PIEDEVACHE
     produit: confitures
     website: 
