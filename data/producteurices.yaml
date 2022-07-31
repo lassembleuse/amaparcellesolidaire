@@ -61,6 +61,10 @@
 - categorie: Boissons
   icone: images/categories/picto-boisson.png
   producteurices:
+  - nom: ''
+    produit: ''
+    website: ''
+    contrat: ''
   - nom: La Quévertoise - Vincent BOAGLIO
     produit: bière
     website: http://www.la-quevertoise.com/
@@ -73,10 +77,9 @@
     produit: tisanes
     website: 
     contrat: "/contrats/tisane-automne-hiver-2021-2022.pdf"
-  - nom: Cécile TREMORIN
-    produit: Jus de pommes
-    website: 
-    contrat: "/contrats/pommes-automne-hiver-2021-2022.pdf"
+  - nom: Le Courtil Goulipaou
+    produit: Fleurs de chanvre - CBD
+    website: http://www.fermepedagogiqueducourtil.com/
 - categorie: Épicerie salée
   icone: images/categories/picto-sale.png
   producteurices: 
