@@ -51,6 +51,10 @@
 - categorie: Viande
   icone: images/categories/picto-viande.png
   producteurices:
+  - nom: Ludovic LE CAM
+    produit: Viande d'agneau
+    website: ''
+    contrat: ''
   - nom: Le Bois Gicquel - Benoît GICQUEL
     produit: 'Volaille '
     website: ''
