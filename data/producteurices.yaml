@@ -61,9 +61,9 @@
 - categorie: Boissons
   icone: images/categories/picto-boisson.png
   producteurices:
-  - nom: ''
-    produit: ''
-    website: ''
+  - nom: L'Arbre de vie - Cécile TREMORIN
+    produit: jus de pomme
+    website: https://app.cagette.net/p/pro/public/vendor/13314
     contrat: ''
   - nom: La Quévertoise - Vincent BOAGLIO
     produit: bière
