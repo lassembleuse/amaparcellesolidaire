@@ -86,6 +86,10 @@
 - categorie: Épicerie sucrée
   icone: images/categories/picto-sucre.png
   producteurices:
+  - nom: Tite Bonne Femme - Béatrice ROUX
+    produit: 'confiseries au caramel '
+    website: ''
+    contrat: ''
   - nom: Le Rucher du Champ d'en face - Gilles LEBASTARD
     produit: miel
     website: ''
