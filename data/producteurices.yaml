@@ -67,7 +67,7 @@
   icone: images/categories/picto-pain.png
   producteurices:
   - nom: Laorans Boulangerie - Laurent BAUDET
-    produit: pain
+    produit: Pain
     website: https://www.facebook.com/profile.php?id=100057525006414
     contrat: "/contrats/pain-automne-hiver-2021-2022.pdf"
 - categorie: Boissons
