@@ -73,6 +73,10 @@
 - categorie: Boissons
   icone: images/categories/picto-boisson.png
   producteurices:
+  - nom: ''
+    produit: ''
+    website: ''
+    contrat: ''
   - nom: La Ferme de Lacaÿ
     produit: Liqueur de prune
     website: https://www.fermedulacay.com/
@@ -99,6 +103,10 @@
 - categorie: Épicerie salée
   icone: images/categories/picto-sale.png
   producteurices:
+  - nom: GAEC La Miette Rieuse - Sarah FERNIQUE et Romain PAREL
+    produit: Farines
+    website: https://www.letelegramme.fr/cotes-darmor/dinan/paysans-boulangers-la-miette-rieuse-prend-son-envol-a-quevert-20-02-2022-12925714.php
+    contrat: ''
   - nom: Fertile Fungi - Morgane VARNIER
     produit: Champignons séchés et tartinable
     website: https://www.fermedulacay.com/
