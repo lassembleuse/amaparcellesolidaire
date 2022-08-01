@@ -1,11 +1,4 @@
 ---
-- categorie: Produits d'hygiène
-  icone: images/categories/picto-hygiene.png
-  producteurices:
-  - nom: Pampilles et Cabrioles - Camille THEPAULT et Benjamin RAISON
-    produit: Savon
-    website: https://www.pampillesetcabrioles.fr/
-    contrat: ''
 - categorie: Légumes
   icone: images/categories/picto-legume.png
   producteurices:
@@ -129,3 +122,10 @@
     produit: Confitures
     website: https://www.facebook.com/Lenvie-des-champs-610116602794027/
     contrat: "/contrats/confitures-automne-hiver-2021-2022.pdf"
+- categorie: Produits d'hygiène
+  icone: images/categories/picto-hygiene.png
+  producteurices:
+  - nom: Pampilles et Cabrioles - Camille THEPAULT et Benjamin RAISON
+    produit: Savon
+    website: https://www.pampillesetcabrioles.fr/
+    contrat: ''
