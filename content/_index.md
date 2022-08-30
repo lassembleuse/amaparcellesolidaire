@@ -19,9 +19,9 @@ fonctionnement_detail:
   content: 8 € le petit panier - 13 € le moyen - 18 € le grand
 historique_title: L'AMAP
 historique_content: |-
-  L'association AMAP'arcelle Solidaire est née en 2008 autour de Nicolas et Sterenn,maraîchers bio du Courtil GOULIPAOU (Plestan).
+  L'association AMAP'arcelle Solidaire est née en 2008 autour de Nicolas et Sterenn, maraîchers bio du Courtil GOULIPAOU (Plestan).
 
-  , plusieurs producteurs sont venus frapper à la porte et proposer leurs produits. Aujourd'hui, une cinquantaine de famille bénéficie des distributions à Quévert.
+  Depuis, plusieurs producteurs sont venus frapper à la porte et proposer leurs produits. Aujourd'hui, une cinquantaine de famille bénéficie des distributions à Quévert.
 
   L'AMAP fonctionne grâce à la participation des adhérents aux diverses tâches, notamment assurer la distribution des paniers chaque semaine avec l'aide des maraîchers, retrouver les maraîchers sur leur lieu d'exploitation de manière très ponctuelle, organiser quelques événements pour faire vivre l 'AMAP localement et s'y implanter de façon pérenne.
 
