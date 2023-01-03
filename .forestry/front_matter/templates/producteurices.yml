@@ -26,11 +26,3 @@ fields:
     - type: text
       name: website
       label: site internet
-    - type: file
-      name: contrat
-      label: contrat
-    - name: contrat2
-      type: file
-      config:
-        maxSize: 64
-      label: Contrat2

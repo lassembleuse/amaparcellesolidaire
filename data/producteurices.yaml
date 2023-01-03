@@ -5,90 +5,72 @@
   - nom: Le Courtil Goulipaou - Nicolas MONTFORT et Sterenn KERVELLA
     produit: Légumes
     website: http://www.fermepedagogiqueducourtil.com/
-    contrat: "/contrats/legumes-automne-hiver-2021-2022.pdf"
 - categorie: Fruits
   icone: images/categories/picto-fruit.png
   producteurices:
   - nom: La Ferme du Lacaÿ
     produit: Pruneaux
     website: https://www.fermedulacay.com/
-    contrat: "/contrats/pruneaux-automne-hiver-2021-2022.pdf"
   - nom: Cécile TREMORIN
     produit: Pommes
     website: https://app.cagette.net/p/pro/public/vendor/13314
-    contrat: "/contrats/pommes-automne-hiver-2021-2022.pdf"
 - categorie: Produits frais
   icone: images/categories/picto-produits-frais.png
   producteurices:
   - nom: Fertile Fungi - Morgane VARNIER
     produit: Champignons
     website: https://www.facebook.com/fertilefungi/
-    contrat: ''
   - nom: Benoît GICQUEL
     produit: Oeufs et poulet
     website:
-    contrat: "/contrats/volaille-oeuf-automne-hiver-2021-2022.pdf"
   - nom: Billigs et Compagnie - Morgane MAMBRÉ
     produit: galettes et pancakes
     website: https://www.facebook.com/BilligsEtCompagnie/
-    contrat: "/contrats/galettes-automne-hiver-2021-2022.pdf"
   - nom: GAEC Pampilles et Cabrioles - Camille THEPAULT et Benjamin RAISON
     produit: fromage de chèvre
     website: http://www.pampillesetcabrioles.fr/
-    contrat: "/contrats/fromage-chevre-automne-hiver-2021-2022.pdf"
   - nom: Ferme de la Chesnaye - Maëlle COQUIO
     produit: fromages de vache
     website: https://www.facebook.com/fermedelachesnaye/
-    contrat: "/contrats/fromage-vache-automne-hiver-2021-2022.pdf"
 - categorie: Viande
   icone: images/categories/picto-viande.png
   producteurices:
   - nom: Ludovic LE CAM
     produit: Viande d'agneau
     website: ''
-    contrat: ''
   - nom: Le Bois Gicquel - Benoît GICQUEL
     produit: 'Volaille '
     website: ''
-    contrat: ''
   - nom: Ferme de la Chesnaye - Maëlle COQUIO
     produit: Viande bovine
     website: https://www.fermedelachesnaye.fr/
-    contrat: ''
   - nom: Ferme de la Chesnaye - Maëlle COQUIO
     produit: Viande de porc
     website: https://www.facebook.com/fermedelachesnaye/
-    contrat: "/contrats/porc-automne-hiver-2021-2022.pdf"
 - categorie: Boulangerie
   icone: images/categories/picto-pain.png
   producteurices:
   - nom: Laorans Boulangerie - Laurent BAUDET
     produit: Pain
     website: https://www.facebook.com/profile.php?id=100057525006414
-    contrat: "/contrats/pain-automne-hiver-2021-2022.pdf"
 - categorie: Boissons
   icone: images/categories/picto-boisson.png
   producteurices:
   - nom: La Ferme de Lacaÿ
     produit: Liqueur de prune
     website: https://www.fermedulacay.com/
-    contrat: ''
   - nom: L'Arbre de vie - Cécile TREMORIN
     produit: Jus de pomme
     website: https://app.cagette.net/p/pro/public/vendor/13314
-    contrat: ''
   - nom: La Quévertoise - Vincent BOAGLIO
     produit: Bières
     website: http://www.la-quevertoise.com/
-    contrat: "/contrats/bieres-automne-hiver-2021-2022.pdf"
   - nom: Le Courtil Goulipaou - Nicolas MONTFORT et Sterenn KERVELLA
     produit: Cidre
     website: http://www.fermepedagogiqueducourtil.com/
-    contrat: "/contrats/cidre-automne-hiver-2021-2022.pdf"
   - nom: Lilia chemin des plantes - Marine BUET
     produit: Tisanes
     website:
-    contrat: "/contrats/tisane-automne-hiver-2021-2022.pdf"
   - nom: Le Courtil Goulipaou - Nicolas MONTFORT et Sterenn KERVELLA
     produit: Tisane à la fleur de chanvre - CBD
     website: http://www.fermepedagogiqueducourtil.com/
@@ -98,34 +80,27 @@
   - nom: GAEC La Miette Rieuse - Sarah FERNIQUE et Romain PAREL
     produit: Farines
     website: https://www.letelegramme.fr/cotes-darmor/dinan/paysans-boulangers-la-miette-rieuse-prend-son-envol-a-quevert-20-02-2022-12925714.php
-    contrat: ''
   - nom: Fertile Fungi - Morgane VARNIER
     produit: Champignons séchés et tartinable
     website: https://www.facebook.com/fertilefungi/
-    contrat: ''
 - categorie: Épicerie sucrée
   icone: images/categories/picto-sucre.png
   producteurices:
   - nom: Billigs et Compagnie - Morgane MAMBRE
     produit: Crêpes et pancakes
     website: https://www.facebook.com/BilligsEtCompagnie/
-    contrat: ''
   - nom: Tite Bonne Femme - Béatrice ROUX
     produit: 'Confiseries au caramel '
     website: ''
-    contrat: ''
   - nom: Le Rucher du Champ d'en face - Gilles LEBASTARD
     produit: Miel
     website: ''
-    contrat: ''
   - nom: L'Envie des Champs - Sabrina PIEDEVACHE
     produit: Confitures
     website: https://www.facebook.com/Lenvie-des-champs-610116602794027/
-    contrat: "/contrats/confitures-automne-hiver-2021-2022.pdf"
 - categorie: Produits d'hygiène
   icone: images/categories/picto-hygiene.png
   producteurices:
   - nom: Pampilles et Cabrioles - Camille THEPAULT et Benjamin RAISON
     produit: Savon
     website: https://www.pampillesetcabrioles.fr/
-    contrat: ''
