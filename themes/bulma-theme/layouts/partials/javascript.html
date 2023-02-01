@@ -1,3 +1,4 @@
+<script src="https://unpkg.com/micromodal/dist/micromodal.min.js"></script>
 {{ $plugins := resources.Get "js/plugins.js" }}
 {{ $base := resources.Get "js/base.js" }}
 {{ $js := slice $plugins $base | resources.Concat "js/bundle.js" }}
