@@ -18,16 +18,25 @@ fields:
     label: producteurices
     fields:
     - type: text
-      name: nom
-      label: nom
+      name: nom_producteurice
+      label: Nom Producteur / productrice
+    - type: text
+      name: nom_exploitation
+      label: Nom de l'exploitation
     - type: text
       name: produit
-      label: produit
-    - type: text
-      name: website
-      label: site internet
-    - name: image
+      label: Produit
+    - name: picture
       type: file
       config:
         maxSize: 64
       label: Image
+    - type: textarea
+      name: description
+      label: Description
+    - type: text
+      name: website
+      label: Site internet
+    - type: text
+      name: localisation
+      label: Localisation
