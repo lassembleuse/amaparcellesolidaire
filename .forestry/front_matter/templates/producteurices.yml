@@ -26,3 +26,8 @@ fields:
     - type: text
       name: website
       label: site internet
+    - name: image
+      type: file
+      config:
+        maxSize: 64
+      label: Image
