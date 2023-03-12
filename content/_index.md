@@ -36,16 +36,13 @@ contacts:
 - contenu: asso.amaparcellesolidaire@gmail.com
   type: e-mail
   precision: ''
-- contenu: contact@amaparcellesolidaire.fr
-  type: email
-  precision: ''
 - contenu: 06 79 25 58 81
   type: telephone
   precision: "(Julie)"
 contact_content: |-
   Pour contacter le réseau :
 
-  * [http://www.reseau-amap.org](http://www.reseau-amap.org "http://www.reseau-amap.org")
+  *   http://www.reseau-amap.org
   * [https://www.amap-armorique.org](https://www.amap-armorique.org "https://www.amap-armorique.org")
 menu:
   footer:
