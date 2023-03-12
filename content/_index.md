@@ -35,7 +35,7 @@ inscription_content: Pour adhérer et commander vos paniers, rien de plus simple
 contact_title: Pour nous contacter
 contacts:
 - contenu: asso.amaparcellesolidaire@gmail.com
-  type: e-mail
+  type: mail
   precision: ''
 - contenu: 06 79 25 58 81
   type: telephone
