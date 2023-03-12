@@ -29,8 +29,9 @@ historique_content: |-
 
   **N’hésitez pas à prendre contact avec nous pour en savoir plus et nous rejoindre !**
 inscription_title: Adhérer
-inscription_content: "Pour adhérer et commander vos paniers, rien de plus simple !
-  \n\nPrenez contact avec nous !"
+inscription_content: Pour adhérer et commander vos paniers, rien de plus simple !
+  Prenez contact avec nous ou rendez vous à une distribution pour découvrir les produits
+  et nous rencontrer. !
 contact_title: Pour nous contacter
 contacts:
 - contenu: asso.amaparcellesolidaire@gmail.com
@@ -42,7 +43,7 @@ contacts:
 contact_content: |-
   Pour contacter le réseau :
 
-  *   http://www.reseau-amap.org
+  *  [ http://www.reseau-amap.org](http://www.reseau-amap.org/ "Réseau Amap")
   * [https://www.amap-armorique.org](https://www.amap-armorique.org "https://www.amap-armorique.org")
 menu:
   footer:
