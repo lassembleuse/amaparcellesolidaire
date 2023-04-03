@@ -2,13 +2,13 @@
 - categorie: Légumes
   icone: images/categories/picto-legume.png
   producteurices:
-  - nom_producteurice: Nicolas MONTFORT et Sterenn KERVELLA
+  - nom_producteurice: 'Nicolas MONTFORT et Sterenn KERVELLA '
     nom_exploitation: ''
     produit: Légumes
     website: 
     picture: "/uploads/courtil_goulipaou.jpg"
     description: 
-    localisation: Le Courtil Goulipaou 22640 Plestan
+    localisation: Le Courtil Goulipaou 22640 Plestan - courtil.goulipaou@hotmail.com
 - categorie: Fruits
   icone: images/categories/picto-fruit.png
   producteurices:
