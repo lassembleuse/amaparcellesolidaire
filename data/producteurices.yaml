@@ -3,12 +3,12 @@
   icone: images/categories/picto-legume.png
   producteurices:
   - nom_producteurice: Nicolas MONTFORT et Sterenn KERVELLA
-    nom_exploitation: Le Courtil Goulipaou
+    nom_exploitation: ''
     produit: Légumes
-    website:
+    website: 
     picture: "/uploads/courtil_goulipaou.jpg"
-    description:
-    localisation: 22640 Plestan
+    description: 
+    localisation: Le Courtil Goulipaou 22640 Plestan
 - categorie: Fruits
   icone: images/categories/picto-fruit.png
   producteurices:
@@ -16,15 +16,15 @@
     nom_exploitation: La Ferme du Lacaÿ
     produit: Pruneaux
     website: https://www.fermedulacay.com/
-    picture:
-    description:
+    picture: 
+    description: 
     localisation: 47140 Penne d'Agenais
   - nom_producteurice: Cécile TREMORIN
     nom_exploitation: L'Arbre de vie
     produit: Pommes
     website: https://app.cagette.net/p/pro/public/vendor/13314
-    picture:
-    description:
+    picture: 
+    description: 
     localisation: 35620 Baguer-Pican
 - categorie: Produits frais
   icone: images/categories/picto-produits-frais.png
@@ -33,21 +33,21 @@
     nom_exploitation: Fertile Fungi
     produit: Champignons
     website: https://www.facebook.com/fertilefungi/
-    picture:
-    description:
+    picture: 
+    description: 
     localisation: 22430 Erquy
   - nom_producteurice: Benoît GICQUEL
     nom_exploitation: Le Bois Gicquel
     produit: Oeufs et poulet
-    website:
-    picture:
-    description:
+    website: 
+    picture: 
+    description: 
     localisation: 22550 Hénanbihen
   - nom_producteurice: Morgane MAMBRÉ
     nom_exploitation: Billigs et Compagnie
     produit: galettes et pancakes
     website: https://www.facebook.com/BilligsEtCompagnie/
-    picture: '/uploads/billig.jpg'
+    picture: "/uploads/billig.jpg"
     description: |
       Je fabrique des galettes, crêpes, pancakes, blinis et chips de blé noir.
 
@@ -57,15 +57,15 @@
     nom_exploitation: GAEC Pampilles et Cabrioles
     produit: fromage de chèvre
     website: http://www.pampillesetcabrioles.fr/
-    picture:
-    description:
+    picture: 
+    description: 
     localisation: 22 400 Planguenoual
   - nom_producteurice: Maëlle COQUIO
     nom_exploitation: Ferme de la Chesnaye
     produit: fromages de vache
     website: https://www.facebook.com/fermedelachesnaye/
-    picture:
-    description:
+    picture: 
+    description: 
     localisation: 35720 Plesder
 - categorie: Viande
   icone: images/categories/picto-viande.png
@@ -74,29 +74,29 @@
     nom_exploitation: Ludovic LE CAM
     produit: Viande d'agneau
     website: ''
-    picture:
-    description:
-    localisation:
+    picture: 
+    description: 
+    localisation: 
   - nom_producteurice: Benoît GICQUEL
     nom_exploitation: Le Bois Gicquel
     produit: 'Volaille '
     website: ''
-    picture:
-    description:
+    picture: 
+    description: 
     localisation: 22550 Hénanbihen
   - nom_producteurice: Maëlle COQUIO
     nom_exploitation: Ferme de la Chesnaye
     produit: Viande bovine
     website: https://www.fermedelachesnaye.fr/
-    picture:
-    description:
+    picture: 
+    description: 
     localisation: 35720 Plesder
   - nom_producteurice: Maëlle COQUIO
     nom_exploitation: Ferme de la Chesnaye
     produit: Viande de porc
     website: https://www.facebook.com/fermedelachesnaye/
-    picture:
-    description:
+    picture: 
+    description: 
     localisation: 35720 Plesder
 - categorie: Boulangerie
   icone: images/categories/picto-pain.png
@@ -105,9 +105,9 @@
     nom_exploitation: Laorans Boulangerie
     produit: Pain
     website: https://www.facebook.com/profile.php?id=100057525006414
-    picture:
-    description:
-    localisation:
+    picture: 
+    description: 
+    localisation: 
 - categorie: Boissons
   icone: images/categories/picto-boisson.png
   producteurices:
@@ -115,43 +115,43 @@
     nom_exploitation: La Ferme de Lacaÿ
     produit: Liqueur de prune
     website: https://www.fermedulacay.com/
-    picture:
-    description:
+    picture: 
+    description: 
     localisation: 47140 Penne d'Agenais
   - nom_producteurice: Cécile TREMORIN
     nom_exploitation: L'Arbre de vie
     produit: Jus de pomme
     website: https://app.cagette.net/p/pro/public/vendor/13314
-    picture:
-    description:
+    picture: 
+    description: 
     localisation: 35620 Baguer-Pican
   - nom_producteurice: Vincent BOAGLIO
     nom_exploitation: La Quévertoise
     produit: Bières
     website: http://www.la-quevertoise.com/
-    picture:
-    description:
+    picture: 
+    description: 
     localisation: 22100 Quévert
   - nom_producteurice: Nicolas MONTFORT et Sterenn KERVELLA
     nom_exploitation: Le Courtil Goulipaou
     produit: Cidre
-    website:
-    picture:
-    description:
+    website: 
+    picture: 
+    description: 
     localisation: 22640 Plestan
   - nom_producteurice: Marine BUET
     nom_exploitation: Lilia chemin des plantes
     produit: Tisanes
-    website:
-    picture:
-    description:
+    website: 
+    picture: 
+    description: 
     localisation: 22100 Quévert
   - nom_producteurice: Nicolas MONTFORT et Sterenn KERVELLA
     nom_exploitation: Le Courtil Goulipaou
     produit: Tisane à la fleur de chanvre - CBD
-    website:
-    picture:
-    description:
+    website: 
+    picture: 
+    description: 
     localisation: 22640 Plestan
 - categorie: Épicerie salée
   icone: images/categories/picto-sale.png
@@ -160,15 +160,15 @@
     nom_exploitation: GAEC La Miette Rieuse
     produit: Farines
     website: https://www.letelegramme.fr/cotes-darmor/dinan/paysans-boulangers-la-miette-rieuse-prend-son-envol-a-quevert-20-02-2022-12925714.php
-    picture:
-    description:
+    picture: 
+    description: 
     localisation: 22100 Quévert
   - nom_producteurice: Morgane VARNIER
     nom_exploitation: Fertile Fungi
     produit: Champignons séchés et tartinable
     website: https://www.facebook.com/fertilefungi/
-    picture:
-    description:
+    picture: 
+    description: 
     localisation: 22430 Erquy
 - categorie: Épicerie sucrée
   icone: images/categories/picto-sucre.png
@@ -177,7 +177,7 @@
     nom_exploitation: Billigs et Compagnie
     produit: Crêpes et pancakes
     website: https://www.facebook.com/BilligsEtCompagnie/
-    picture: '/uploads/billig.jpg'
+    picture: "/uploads/billig.jpg"
     description: |
       Je fabrique des galettes, crêpes, pancakes, blinis et chips de blé noir.
 
@@ -187,22 +187,22 @@
     nom_exploitation: Tite Bonne Femme
     produit: Confiseries au caramel
     website: ''
-    picture:
-    description:
-    localisation:
+    picture: 
+    description: 
+    localisation: 
   - nom_producteurice: Gilles LEBASTARD
     nom_exploitation: Le Rucher du Champ d'en face
     produit: Miel
     website: ''
-    picture:
+    picture: 
     description: 35720 Pleugueuneuc
-    localisation:
+    localisation: 
   - nom_producteurice: Sabrina PIEDEVACHE
     nom_exploitation: L'Envie des Champs
     produit: Confitures
     website: http://lenviedeschamps.wixsite.com/lenviedeschamps
     picture: "/uploads/envie_des_champs.jpg"
-    description:  |-
+    description: |-
       L'Envie des champs, c’est une ferme bio et logique lancée en mars 2016 par Sabrina Piedevache.
 
 
@@ -218,6 +218,6 @@
     nom_exploitation: Pampilles et Cabrioles
     produit: Savon
     website: https://www.pampillesetcabrioles.fr/
-    picture:
-    description:
+    picture: 
+    description: 
     localisation: 22 400 Planguenoual
