@@ -3,11 +3,11 @@
   icone: images/categories/picto-legume.png
   producteurices:
   - nom_producteurice: 'Nicolas MONTFORT et Sterenn KERVELLA '
-    nom_exploitation: ''
+    nom_exploitation: 'Le Courtil Goulipaou'
     produit: Légumes
-    website: 
+    website:
     picture: "/uploads/courtil_goulipaou.jpg"
-    description: 
+    description:
     localisation: Le Courtil Goulipaou 22640 Plestan - courtil.goulipaou@hotmail.com
 - categorie: Fruits
   icone: images/categories/picto-fruit.png
@@ -16,15 +16,15 @@
     nom_exploitation: La Ferme du Lacaÿ
     produit: Pruneaux
     website: https://www.fermedulacay.com/
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: Lacaÿ 47140 Penne d'Agenais - eva.fermedulacay@orange.fr
   - nom_producteurice: Cécile TREMORIN
     nom_exploitation: L'Arbre de vie
     produit: Pommes
     website: https://app.cagette.net/p/pro/public/vendor/13314
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: '1 A Le Mottay 35120 Baguer-Pican - c.tremorin@gmail.com '
 - categorie: Produits frais
   icone: images/categories/picto-produits-frais.png
@@ -33,15 +33,15 @@
     nom_exploitation: Fertile Fungi
     produit: Champignons
     website: https://www.facebook.com/fertilefungi/
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: 'Le travers d''en haut 22430 Erquy - morganevarnier@gmail.com '
   - nom_producteurice: Benoît GICQUEL
-    nom_exploitation: ''
+    nom_exploitation: 'Benoît GICQUEL'
     produit: Oeufs et poulet
-    website: 
-    picture: 
-    description: 
+    website:
+    picture:
+    description:
     localisation: Le Bois Gicquel 22550 Hénanbihen - benoit.gicquel20@gmail.com
   - nom_producteurice: Morgane MAMBRÉ
     nom_exploitation: Billigs et Compagnie
@@ -57,15 +57,15 @@
     nom_exploitation: GAEC Pampilles et Cabrioles
     produit: fromage de chèvre
     website: http://www.pampillesetcabrioles.fr/
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: la Croix Trinchant 22 400 Planguenoual - contact@pampillesetcabrioles.fr
   - nom_producteurice: Maëlle COQUIO
     nom_exploitation: Ferme de la Chesnaye
     produit: fromages de vache
     website: https://www.facebook.com/fermedelachesnaye/
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: 'La Chesnaye 35720 Plesder - fermedelachesnaye@lavache.com '
 - categorie: Viande
   icone: images/categories/picto-viande.png
@@ -74,29 +74,29 @@
     nom_exploitation: Ludovic LE CAM
     produit: Viande d'agneau
     website: ''
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: 22 640 Plénée-Jugon - ludovic.le.cam@hotmail.fr
   - nom_producteurice: Benoît GICQUEL
-    nom_exploitation: ''
+    nom_exploitation: 'Benoît GICQUEL'
     produit: 'Volaille '
     website: ''
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: Le Bois Gicquel 22 550 Hénanbihen - benoit.gicquel20@gmail.com
   - nom_producteurice: Maëlle COQUIO
     nom_exploitation: Ferme de la Chesnaye
     produit: Viande bovine
     website: https://www.fermedelachesnaye.fr/
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: La Chesnaye 35 720 Plesder - fermedelachesnaye@lavache.com
   - nom_producteurice: Maëlle COQUIO
     nom_exploitation: Ferme de la Chesnaye
     produit: Viande de porc
     website: https://www.facebook.com/fermedelachesnaye/
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: La Chesnaye 35 720 Plesder - fermedelachesnaye@lavache.com
 - categorie: Boulangerie
   icone: images/categories/picto-pain.png
@@ -105,8 +105,8 @@
     nom_exploitation: Laorans Boulangerie
     produit: Pain
     website: https://www.facebook.com/profile.php?id=100057525006414
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: '6, La Tenue Lesné, 22120 POMMERET - laorans.contact@gmail.com '
 - categorie: Boissons
   icone: images/categories/picto-boisson.png
@@ -115,43 +115,43 @@
     nom_exploitation: La Ferme de Lacaÿ
     produit: Liqueur de prune
     website: https://www.fermedulacay.com/
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: Lacaÿ 47140 Penne d'Agenais - eva.fermedulacay@orange.fr
   - nom_producteurice: Cécile TREMORIN
     nom_exploitation: L'Arbre de vie
     produit: Jus de pomme
     website: https://app.cagette.net/p/pro/public/vendor/13314
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: '1 A Le Mottay 35620 Baguer-Pican - c.tremorin@gmail.com '
   - nom_producteurice: Vincent BOAGLIO
     nom_exploitation: La Quévertoise
     produit: Bières
     website: http://www.la-quevertoise.com/
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: '2 Les Piffaudais 22 100 Quévert - contact@la-quevertoise.com '
   - nom_producteurice: Nicolas MONTFORT et Sterenn KERVELLA
     nom_exploitation: Le Courtil Goulipaou
     produit: Cidre
-    website: 
-    picture: 
-    description: 
+    website:
+    picture:
+    description:
     localisation: Le courtil goulipaou 22640 Plestan - courtil.goulipaou@hotmail.com
   - nom_producteurice: Marine BUET
     nom_exploitation: Lilia chemin des plantes
     produit: Tisanes
-    website: 
-    picture: 
-    description: 
+    website:
+    picture:
+    description:
     localisation: Les Piffaudais 22 100 Quévert - lilia-plantes@riseup.net
   - nom_producteurice: Nicolas MONTFORT et Sterenn KERVELLA
     nom_exploitation: Le Courtil Goulipaou
     produit: Tisane à la fleur de chanvre - CBD
-    website: 
-    picture: 
-    description: 
+    website:
+    picture:
+    description:
     localisation: 'Le Courtil Goulipaou 22 640 Plestan - courtil.goulipaou@hotmail.com '
 - categorie: Épicerie salée
   icone: images/categories/picto-sale.png
@@ -160,15 +160,15 @@
     nom_exploitation: GAEC La Miette Rieuse
     produit: Farines
     website: https://www.letelegramme.fr/cotes-darmor/dinan/paysans-boulangers-la-miette-rieuse-prend-son-envol-a-quevert-20-02-2022-12925714.php
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: Les Piffaudais 22 100 Quévert - lamietterieuse@gmail.com
   - nom_producteurice: Morgane VARNIER
     nom_exploitation: Fertile Fungi
     produit: Champignons séchés et tartinable
     website: https://www.facebook.com/fertilefungi/
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: 'Le Travers d''en Haut 22 430 Erquy - morganevarnier@gmail.com '
 - categorie: Épicerie sucrée
   icone: images/categories/picto-sucre.png
@@ -187,14 +187,14 @@
     nom_exploitation: Tite Bonne Femme
     produit: Confiseries au caramel
     website: ''
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: 22 130 CORSEUL - titebonnefemme@outlook.fr
   - nom_producteurice: Gilles LEBASTARD
     nom_exploitation: Le Rucher du Champ d'en face
     produit: Miel
     website: ''
-    picture: 
+    picture:
     description: ''
     localisation: 15 Villains 35 720 Pleugueuneuc - glb@wanadoo.fr
   - nom_producteurice: Sabrina PIEDEVACHE
@@ -218,6 +218,6 @@
     nom_exploitation: Pampilles et Cabrioles
     produit: Savon
     website: https://www.pampillesetcabrioles.fr/
-    picture: 
-    description: 
+    picture:
+    description:
     localisation: 'La Croix Trinchant 22 400 Planguenoual - contact@pampillesetcabrioles.fr '
