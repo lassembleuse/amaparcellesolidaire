@@ -66,6 +66,9 @@
                               {{ with .localisation }}
                               <li><b>Localisation :</b> {{ . }}</li>
                               {{ end }}
+                              {{ with .email }}
+                              <li><b>Contact :</b> <a href="mailto:{{ . }}"> {{ . }} </a></li>
+                              {{ end }}
                               {{ with .website }}
                               <li><b>En savoir plus :</b> <a href="{{ . }}"> {{ . }} </a></li>
                               {{ end }}

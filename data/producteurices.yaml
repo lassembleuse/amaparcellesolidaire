@@ -2,13 +2,14 @@
 - categorie: Légumes
   icone: images/categories/picto-legume.png
   producteurices:
-  - nom_producteurice: 'Nicolas MONTFORT et Sterenn KERVELLA '
-    nom_exploitation: 'Le Courtil Goulipaou'
+  - nom_producteurice: 'Véronique MADRE'
+    nom_exploitation: 'Les Jardins Buissonniers'
     produit: Légumes
-    website:
-    picture: "/uploads/courtil_goulipaou.jpg"
+    website: https://www.facebook.com/profile.php?id=61551553583475
+    picture: 
     description:
-    localisation: Le Courtil Goulipaou 22640 Plestan - courtil.goulipaou@hotmail.com
+    localisation: Les Rouffs 22100 Lanvallay
+    email: jardinsbuissonniers.lanvallay@gmail.com
 - categorie: Fruits
   icone: images/categories/picto-fruit.png
   producteurices:
@@ -18,14 +19,16 @@
     website: https://www.fermedulacay.com/
     picture:
     description:
-    localisation: Lacaÿ 47140 Penne d'Agenais - eva.fermedulacay@orange.fr
-  - nom_producteurice: Cécile TREMORIN
-    nom_exploitation: L'Arbre de vie
+    localisation: Lacaÿ 47140 Penne d'Agenais
+    email: eva.fermedulacay@orange.fr
+  - nom_producteurice: Anaïs et Landry
+    nom_exploitation: Croc Fruits
     produit: Pommes
-    website: https://app.cagette.net/p/pro/public/vendor/13314
-    picture:
+    website: https://croc-fruits.fr/
+    picture: 
     description:
-    localisation: '1 A Le Mottay 35120 Baguer-Pican - c.tremorin@gmail.com '
+    localisation: '115, le Bouillon 22130 Saint Lormel'
+    email: vergercroc.fruits@gmail.com
 - categorie: Produits frais
   icone: images/categories/picto-produits-frais.png
   producteurices:
@@ -35,38 +38,32 @@
     website: https://www.facebook.com/fertilefungi/
     picture:
     description:
-    localisation: 'Le travers d''en haut 22430 Erquy - morganevarnier@gmail.com '
-  - nom_producteurice: Benoît GICQUEL
-    nom_exploitation: 'Benoît GICQUEL'
-    produit: Oeufs et poulet
-    website:
+    localisation: 'Le travers d''en haut 22430 Erquy'
+    email: morganevarnier@gmail.com
+  - nom_producteurice: Tiphaine Braganti Rouesnel
+    nom_exploitation: La Ferme du Mesnil
+    produit: Oeufs
+    website: https://www.facebook.com/people/La-Ferme-Du-Mesnil/100087165468654/
     picture:
     description:
-    localisation: Le Bois Gicquel 22550 Hénanbihen - benoit.gicquel20@gmail.com
-  - nom_producteurice: Morgane MAMBRÉ
-    nom_exploitation: Billigs et Compagnie
-    produit: galettes et pancakes
-    website: https://www.facebook.com/BilligsEtCompagnie/
-    picture: "/uploads/billig.jpg"
-    description: |
-      Je fabrique des galettes, crêpes, pancakes, blinis et chips de blé noir.
-
-      Tous mes produits sont certifiés bio et sont tous "vegan".
-    localisation: 22130 Corseul - morgane@billigsetcompagnie.com
+    localisation: 35720 TRESSE
+    email: leduc.braganti@gmail.com
   - nom_producteurice: Camille THEPAULT et Benjamin RAISON
     nom_exploitation: GAEC Pampilles et Cabrioles
     produit: fromage de chèvre
     website: http://www.pampillesetcabrioles.fr/
     picture:
     description:
-    localisation: la Croix Trinchant 22 400 Planguenoual - contact@pampillesetcabrioles.fr
-  - nom_producteurice: Maëlle COQUIO
-    nom_exploitation: Ferme de la Chesnaye
-    produit: fromages de vache
-    website: https://www.facebook.com/fermedelachesnaye/
+    localisation: la Croix Trinchant 22 400 Planguenoual
+    email: contact@pampillesetcabrioles.fr
+  - nom_producteurice: Sandrine et Marion Gillet
+    nom_exploitation: 2 bergères sur Rance
+    produit: yaourts et fromages de chèvre
+    website: 
     picture:
     description:
-    localisation: 'La Chesnaye 35720 Plesder - fermedelachesnaye@lavache.com '
+    localisation: 'Le Vau Benoit 22690 Pleudihen sur Rance'
+    email: 2bergeressurrance@gmail.com
 - categorie: Viande
   icone: images/categories/picto-viande.png
   producteurices:
@@ -77,37 +74,17 @@
     picture:
     description:
     localisation: 22 640 Plénée-Jugon - ludovic.le.cam@hotmail.fr
-  - nom_producteurice: Benoît GICQUEL
-    nom_exploitation: 'Benoît GICQUEL'
-    produit: 'Volaille '
-    website: ''
-    picture:
-    description:
-    localisation: Le Bois Gicquel 22 550 Hénanbihen - benoit.gicquel20@gmail.com
-  - nom_producteurice: Maëlle COQUIO
-    nom_exploitation: Ferme de la Chesnaye
-    produit: Viande bovine
-    website: https://www.fermedelachesnaye.fr/
-    picture:
-    description:
-    localisation: La Chesnaye 35 720 Plesder - fermedelachesnaye@lavache.com
-  - nom_producteurice: Maëlle COQUIO
-    nom_exploitation: Ferme de la Chesnaye
-    produit: Viande de porc
-    website: https://www.facebook.com/fermedelachesnaye/
-    picture:
-    description:
-    localisation: La Chesnaye 35 720 Plesder - fermedelachesnaye@lavache.com
 - categorie: Boulangerie
   icone: images/categories/picto-pain.png
   producteurices:
-  - nom_producteurice: Laurent BAUDET
-    nom_exploitation: Laorans Boulangerie
+  - nom_producteurice: Léa Cairon
+    nom_exploitation: Fournil du Tourne’Sole
     produit: Pain
-    website: https://www.facebook.com/profile.php?id=100057525006414
+    website: https://www.facebook.com/people/Fournil-du-tourneSole/100083035853600/
     picture:
     description:
-    localisation: '6, La Tenue Lesné, 22120 POMMERET - laorans.contact@gmail.com '
+    localisation: 23 la Touche 22630 EVRAN
+    email: lea@fournildutournesole.fr
 - categorie: Boissons
   icone: images/categories/picto-boisson.png
   producteurices:
@@ -118,13 +95,14 @@
     picture:
     description:
     localisation: Lacaÿ 47140 Penne d'Agenais - eva.fermedulacay@orange.fr
-  - nom_producteurice: Cécile TREMORIN
-    nom_exploitation: L'Arbre de vie
-    produit: Jus de pomme
-    website: https://app.cagette.net/p/pro/public/vendor/13314
-    picture:
+  - nom_producteurice: Anaïs et Landry
+    nom_exploitation: Croc Fruits
+    produit: Jus de pommes
+    website: https://croc-fruits.fr/
+    picture: 
     description:
-    localisation: '1 A Le Mottay 35620 Baguer-Pican - c.tremorin@gmail.com '
+    localisation: '115, le Bouillon 22130 Saint Lormel'
+    email: vergercroc.fruits@gmail.com
   - nom_producteurice: Vincent BOAGLIO
     nom_exploitation: La Quévertoise
     produit: Bières
@@ -173,23 +151,6 @@
 - categorie: Épicerie sucrée
   icone: images/categories/picto-sucre.png
   producteurices:
-  - nom_producteurice: Morgane MAMBRE
-    nom_exploitation: Billigs et Compagnie
-    produit: Crêpes et pancakes
-    website: https://www.facebook.com/BilligsEtCompagnie/
-    picture: "/uploads/billig.jpg"
-    description: |
-      Je fabrique des galettes, crêpes, pancakes, blinis et chips de blé noir.
-
-      Tous mes produits sont certifiés bio et sont tous "vegan"
-    localisation: '22130 Corseul - morgane@billigsetcompagnie.com '
-  - nom_producteurice: Béatrice ROUX
-    nom_exploitation: Tite Bonne Femme
-    produit: Confiseries au caramel
-    website: ''
-    picture:
-    description:
-    localisation: 22 130 CORSEUL - titebonnefemme@outlook.fr
   - nom_producteurice: Gilles LEBASTARD
     nom_exploitation: Le Rucher du Champ d'en face
     produit: Miel
